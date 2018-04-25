@@ -14,9 +14,9 @@
     </SpecialThanks>
     <AffectsSavedGames>false</AffectsSavedGames>
     <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
-    <SupportsSinglePlayer>false</SupportsSinglePlayer>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
-    <SupportsHotSeat>false</SupportsHotSeat>
+    <SupportsHotSeat>true</SupportsHotSeat>
     <SupportsMac>true</SupportsMac>
     <AssemblyName>AdvanceSaves</AssemblyName>
     <RootNamespace>AdvanceSaves</RootNamespace>
